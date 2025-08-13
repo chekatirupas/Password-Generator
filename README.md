@@ -11,4 +11,4 @@ Customizable length of the password
 
 Lightweight and easy to run
 
-Beginner-friendly code structure
+Generates random passwoed
